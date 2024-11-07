@@ -18,6 +18,7 @@ body {
   user-select: none;
 }
 
+
 #inbox {
   background-color: white;
 } #inbox:hover {
@@ -43,4 +44,9 @@ body {
 
 .hidden {
   display: none;
+}
+
+body{
+  background-color: black;
+  color: white
 }
